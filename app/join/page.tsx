@@ -86,7 +86,7 @@ export default function Join() {
                 {googleFormLink ? (
                   <a
                     href={googleFormLink}
-                    target="_blank"
+                    target="https://docs.google.com/forms/d/e/1FAIpQLSf0wr5N2PzI8OgJnEzIE79hPLS0CBcFrlGZdFPSNybDDur21w/viewform?usp=dialog "
                     rel="noopener noreferrer"
                     className="bg-primary text-primary-foreground px-8 py-4 rounded-lg font-bold text-lg hover:shadow-lg hover:scale-105 transition-all duration-300 inline-flex items-center gap-2 mb-4"
                   >
